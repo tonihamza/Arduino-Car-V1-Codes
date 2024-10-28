@@ -50,6 +50,10 @@ The line follower code enables the car to detect and follow a line on the ground
 ### 4. **Obstacle-Avoiding Car.ino**
 This code allows the car to navigate around obstacles using the ultrasonic sensor. If an obstacle is detected within a certain range, the car will stop, back up, and then make a turn to avoid the obstacle.
 
+## Printable Parts
+
+You can find the printable parts for this project on my Thingiverse account: [Thingiverse - Arduino Smart Car](https://www.thingiverse.com/thing:6807739).
+
 ## Conclusion
 
 The Arduino Smart Car is a highly customizable, modular platform that provides endless opportunities for creative robotics projects. Its easy-to-assemble design and flexibility make it a great choice for anyone looking to explore the world of Arduino and NodeMCU-controlled robotics. Whether you’re building a line-following car, a self-driving vehicle, or a Wi-Fi-enabled smart car, this kit has everything you need to bring your ideas to life.
